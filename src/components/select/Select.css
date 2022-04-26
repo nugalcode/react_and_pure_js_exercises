@@ -1,0 +1,23 @@
+html, body, #root {
+    height: 100%;
+    width: 100%;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    margin: 0;
+}
+.select {
+    display: flex;
+    flex-direction: column;
+}
+
+.currentCar {
+    color: red;
+}
