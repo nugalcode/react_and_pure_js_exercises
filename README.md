@@ -5,3 +5,4 @@ This repository contains simple exercises to practice creating different compone
 ## Current Components
 
 1) Select
+2) Form
