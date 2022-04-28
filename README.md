@@ -6,3 +6,4 @@ This repository contains simple exercises to practice creating different compone
 
 1) Select
 2) Form
+3) Carousel Slider
