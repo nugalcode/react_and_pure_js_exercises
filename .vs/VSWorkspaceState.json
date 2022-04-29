@@ -4,9 +4,10 @@
     "\\public",
     "\\src",
     "\\src\\components",
+    "\\src\\components\\carousel",
     "\\src\\components\\form",
     "\\src\\components\\select"
   ],
-  "SelectedNode": "\\src\\components\\form\\Form.js",
+  "SelectedNode": "\\src\\components\\carousel\\vanillaCarousel.js",
   "PreviewInSolutionExplorer": false
 }
